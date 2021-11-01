@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Olusoji Victor
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning Flutter and JavaScript
-- 💞️ I’m looking to collaborate on any mobile development project
+- 🌱 I’m currently learning Flutter, JavaScript and C#
+- 💞️ I’m looking to collaborate on any software development project
 - 📫 Send me a mail holusojivhictor@gmail.com
 
 <!---
