@@ -6,7 +6,7 @@
 
 # Recent Projects
 
-I have provided access to a couple of projects below. Go to the distribution links provided for testing.
+I have provided access to a couple of my recent projects below. Go to the distribution links provided for testing.
 
 ## OjaNow Rider
 
