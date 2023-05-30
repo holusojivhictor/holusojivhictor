@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Olusoji Victor
+# 👋 Hi, I’m Victor Olusoji
+
 - 👀 I’m a Software developer
 - 🌱 I’m currently building with Flutter, JavaScript and C#
-- 💞️ I’m looking to collaborate on any software development project
 - 📫 Send me a mail holusojivhictor@gmail.com
+
+# Notable Projects
 
 <!---
 holusojivhictor/holusojivhictor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
