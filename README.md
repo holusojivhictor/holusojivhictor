@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Victor Olusoji
 
 - 👀 I’m a Software developer
-- 🌱 I’m currently building with Flutter, JavaScript and C#
+- 🌱 I’m currently building with React, Flutter, and Typescript
 - 📫 Send me a mail holusojivhictor@gmail.com
 
 <!---
